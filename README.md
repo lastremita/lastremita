@@ -5,7 +5,7 @@ I am a frontend developer and i am on the part to full stack. I can write langua
 
 * 🌍  I'm based in nigeria
 * ✉️  You can contact me at [vincentchukwuma30@gmail.com](mailto:vincentchukwuma30@gmail.com)
-* 🧠  I'm learning jQuery and React
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer or designer
 * ⚡  I can kick myself in the head
 
